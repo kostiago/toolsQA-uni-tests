@@ -1,0 +1,23 @@
+{
+  "name": "toolsqa-uni-tests",
+  "version": "1.0.0",
+  "description": "Cypress Tests for https://demoqa.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostiago/toolsQA-uni-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostiago/toolsQA-uni-tests/issues"
+  },
+  "homepage": "https://github.com/kostiago/toolsQA-uni-tests#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
